@@ -6,22 +6,9 @@
     <description>Recent content on randy::site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2020 17:38:16 -0400</lastBuildDate>
     
 	<atom:link href="https://starchery.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Testing site</title>
-      <link>https://starchery.github.io/posts/lang/</link>
-      <pubDate>Sat, 18 Apr 2020 17:38:16 -0400</pubDate>
-      
-      <guid>https://starchery.github.io/posts/lang/</guid>
-      <description>Introduction Lang is a statically typed, interpreted programming language. It seeks to combine multiple popular paradigms without sacrificing expressiveness and ease of use.
-Lang, while multi-paradigm, is decidedly functional first. Functional programming has a number of benefits.
-Take the following code snippet, for example:
-for i in arr: if i &amp;gt; 10: break print(i) Many people will not see the problem with this code. The break keyword should immediately signal, however, that something really ugly is going on.</description>
-    </item>
     
     <item>
       <title>About</title>
