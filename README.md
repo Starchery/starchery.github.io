@@ -1,3 +1,4 @@
 # starchery.github.io
 
-Better readme otw.
+My work in progress personal website/blog.
+Using hugo and the hugo-ink theme.
